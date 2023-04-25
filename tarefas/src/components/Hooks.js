@@ -1,9 +1,9 @@
-import {useState} from 'react';
+import {useState, useEffect} from 'react';
 
 const Hooks = () => {
 
     let idade = 30;
-    const [novaIdade, setNovaIdade] = useState(40)
+    const [novaIdade, setNovaIdade] = useState(35)
 
     const changeAge = () => {
         idade = 31;
