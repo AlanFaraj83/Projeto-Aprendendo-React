@@ -1,8 +1,8 @@
 import './App.css';
 import FirstComponent from './components/FirstComponent.js';
 import AnotherComponent from './components/AnotherComponent';
-import Hooks from './components/Hooks;
 import Images from './components/images';
+import Hooks from './components/Hooks.js';
 import List from './components/List';
 
 
