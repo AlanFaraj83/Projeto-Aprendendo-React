@@ -14,6 +14,10 @@ const Hooks = () => {
         setNovaIdade(45);
     }
 
+    useEffect(() => {
+
+    });
+
     return (
 
         <div>
