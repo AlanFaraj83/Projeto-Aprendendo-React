@@ -15,7 +15,7 @@ const Hooks = () => {
     }
 
     useEffect(() => {
-
+        console.log("Testando!");
     });
 
     return (
